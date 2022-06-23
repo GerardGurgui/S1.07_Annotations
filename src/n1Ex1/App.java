@@ -30,7 +30,7 @@ public class App {
         //////NIVELL 1-EXERCICI 2 //////
         /*
         Al cridar els metodes amb la annotació @deprecated, automaticament quan el cridem al main
-        ens surt taxat com si estigues desfasat
+        ens surt tatxat com si estigues desfasat
         */
         
         System.out.println("-------N1 EX2------");
