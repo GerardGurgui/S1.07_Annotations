@@ -5,7 +5,7 @@ public class App {
     
     
     public static void main(String[] args) {
-//        
+     
         Treballador treballadorGerard = new Treballador("Gerard", "Gurgui" , 15);
         double total = treballadorGerard.calcularSou(120);
         
